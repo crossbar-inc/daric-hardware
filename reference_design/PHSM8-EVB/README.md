@@ -1,0 +1,1 @@
+# PHSM8-EVB is an EVB board that shares an identical design with the PHSM8.

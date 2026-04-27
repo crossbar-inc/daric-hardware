@@ -1,2 +1,2 @@
 # daric-hardware
-Daric chip sepc and reference design.
+Daric chip spec and reference design.
